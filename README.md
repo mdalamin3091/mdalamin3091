@@ -19,14 +19,21 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working as a **Front-End Engineer at Arraytics**
-- 🌱 I'm continually deepening my skills in **React, Nextjs, TypeScript, and modern front-end architecture**
-- 💻 I love turning designs into clean, responsive, and accessible UIs
+- 💼 Frontend Engineer with **4+ years** of experience
+- ⚛️ Specialized in **React**, **TypeScript**, and **JavaScript**
+- 🏗 Passionate about Frontend Architecture and Performance Optimization
+- 🚀 Building SaaS products and AI-powered applications
+- 🌱 Currently learning:
+  - Node.js
+  - PostgreSQL
+  - Docker
+  - AI Engineering
+    
+- 📚 I enjoy learning something new every day.
 - 🌐 Check out my work: **[Alamin](https://my-new-portfolio-black-nu.vercel.app/)**
 - 💬 Ask me about **JavaScript, React, and the MERN stack**
 - 📫 Reach me at: **alaminamin3091@gmail.com**
 - 📍 Based in **Dhaka, Bangladesh**
-
 ---
 
 ### 🛠️ Tech Stack
