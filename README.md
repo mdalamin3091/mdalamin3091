@@ -19,8 +19,8 @@
 
 ### 🚀 About Me
 
-- 💼 Frontend Engineer with **4+ years** of experience
-- ⚛️ Specialized in **React**, **TypeScript**, and **JavaScript**
+- 🔭 I'm currently working as a **Front-End Engineer at Arraytics**
+- 🌱 I'm continually deepening my skills in **React, TypeScript, and modern front-end architecture**
 - 🏗 Passionate about Frontend Architecture and Performance Optimization
 - 🚀 Building SaaS products and AI-powered applications
 - 🌱 Currently learning:
